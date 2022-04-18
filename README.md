@@ -2,6 +2,8 @@
 Here are the hacking tools and resources that I recommend. I am not responsible if you do anything illegal or against the law. 
 Use these tools with caution. 
 
+Resources
+
 Social Engineering
 
 Physical Hacking 
@@ -30,4 +32,4 @@ Exploitation
 Post-Exploitation 
   https://github.com/ParrotSec/mimikatz
   
-Other 
+
